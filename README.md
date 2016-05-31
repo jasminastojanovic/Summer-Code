@@ -7,4 +7,4 @@ Also, the images must be printed in the photo stores which takes too much time.
 And final result is unfilled printed baby diary.
 
 This application should be very intuitive, providing you fast and easy way to upload videos and images,
-with solutions to adding text about imporrtant things (for example: baby's coming home, wight, height...)
+with solutions to adding text about important things (for example: baby's coming home, wight, height...)
